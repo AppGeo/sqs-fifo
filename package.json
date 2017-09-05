@@ -1,0 +1,30 @@
+{
+  "name": "sqs-fifo",
+  "version": "1.0.0",
+  "description": "sqs-fifo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.108.0",
+    "debug": "^3.0.1",
+    "json-stable-stringify": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppGeo/sqs-fifo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AppGeo/sqs-fifo/issues"
+  },
+  "homepage": "https://github.com/AppGeo/sqs-fifo#readme",
+  "keywords": [
+    "sqs",
+    "fifo",
+    "aws"
+  ]
+}
